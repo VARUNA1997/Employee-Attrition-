@@ -1,4 +1,6 @@
-# Employee-Attrition
+# Employee-Attrition(Job-A-Thon Project)
+  ### Secured 12th rank all over India
+  
 ## Agenda:
 The main objective is to determine whether the employee will leave the company or not. We can achieve this by using multiple algorithms/Statistical Techniques.
 To determine whether the employee will leave the company or not, we have to analyse the respective predictors or supporting features like Age, City, Salary etc.
